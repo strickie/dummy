@@ -1,0 +1,2742 @@
+[
+    {
+        "Street": "Hendriksholms Boulevard 1",
+        "MemberNo": "686"
+    },
+    {
+        "Street": "Løgumvej 1",
+        "MemberNo": "353"
+    },
+    {
+        "Street": "Nybølvej 1",
+        "MemberNo": "435"
+    },
+    {
+        "Street": "Skærbækvej 1",
+        "MemberNo": "457"
+    },
+    {
+        "Street": "Skodborgvej 1",
+        "MemberNo": "506"
+    },
+    {
+        "Street": "Toftlundvej 1",
+        "MemberNo": "511"
+    },
+    {
+        "Street": "Vedstedvej 1",
+        "MemberNo": "579"
+    },
+    {
+        "Street": "Løgumvej 2",
+        "MemberNo": "354"
+    },
+    {
+        "Street": "Nybølvej 2",
+        "MemberNo": "436"
+    },
+    {
+        "Street": "Skærbækvej 2",
+        "MemberNo": "458"
+    },
+    {
+        "Street": "Toftlundvej 2A",
+        "MemberNo": "512"
+    },
+    {
+        "Street": "Toftlundvej 2B",
+        "MemberNo": "513"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 3",
+        "MemberNo": "686"
+    },
+    {
+        "Street": "Løgumvej 3",
+        "MemberNo": "355"
+    },
+    {
+        "Street": "Nybølvej 3",
+        "MemberNo": "437"
+    },
+    {
+        "Street": "Skærbækvej 3",
+        "MemberNo": "459"
+    },
+    {
+        "Street": "Skodborgvej 3",
+        "MemberNo": "507"
+    },
+    {
+        "Street": "Toftlundvej 3",
+        "MemberNo": "514"
+    },
+    {
+        "Street": "Vedstedvej 3",
+        "MemberNo": "580"
+    },
+    {
+        "Street": "Vamdrupvej 3A",
+        "MemberNo": "667"
+    },
+    {
+        "Street": "Vamdrupvej 3B",
+        "MemberNo": "668"
+    },
+    {
+        "Street": "Hviddingvej 4",
+        "MemberNo": "677"
+    },
+    {
+        "Street": "Løgumvej 4",
+        "MemberNo": "356"
+    },
+    {
+        "Street": "Nybølvej 4",
+        "MemberNo": "438"
+    },
+    {
+        "Street": "Skærbækvej 4",
+        "MemberNo": "460"
+    },
+    {
+        "Street": "Skodborgvej 4",
+        "MemberNo": "508"
+    },
+    {
+        "Street": "Toftlundvej 4",
+        "MemberNo": "515"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 5",
+        "MemberNo": "686"
+    },
+    {
+        "Street": "Løgumvej 5",
+        "MemberNo": "357"
+    },
+    {
+        "Street": "Nybølvej 5",
+        "MemberNo": "439"
+    },
+    {
+        "Street": "Skærbækvej 5",
+        "MemberNo": "461"
+    },
+    {
+        "Street": "Toftlundvej 5",
+        "MemberNo": "516"
+    },
+    {
+        "Street": "Vamdrupvej 5",
+        "MemberNo": "670"
+    },
+    {
+        "Street": "Vedstedvej 5",
+        "MemberNo": "581"
+    },
+    {
+        "Street": "Hviddingvej 6",
+        "MemberNo": "678"
+    },
+    {
+        "Street": "Løgumvej 6",
+        "MemberNo": "358"
+    },
+    {
+        "Street": "Nybølvej 6",
+        "MemberNo": "440"
+    },
+    {
+        "Street": "Randrupvej 6",
+        "MemberNo": "632"
+    },
+    {
+        "Street": "Skærbækvej 6",
+        "MemberNo": "462"
+    },
+    {
+        "Street": "Skodborgvej 6",
+        "MemberNo": "508"
+    },
+    {
+        "Street": "Toftlundvej 6",
+        "MemberNo": "517"
+    },
+    {
+        "Street": "Agerskovvej 7",
+        "MemberNo": "664"
+    },
+    {
+        "Street": "Hviddingvej 7",
+        "MemberNo": "679"
+    },
+    {
+        "Street": "Løgumvej 7",
+        "MemberNo": "359"
+    },
+    {
+        "Street": "Nybølvej 7",
+        "MemberNo": "441"
+    },
+    {
+        "Street": "Skærbækvej 7",
+        "MemberNo": "463"
+    },
+    {
+        "Street": "Toftlundvej 7",
+        "MemberNo": "518"
+    },
+    {
+        "Street": "Vamdrupvej 7",
+        "MemberNo": "521"
+    },
+    {
+        "Street": "Vedstedvej 7",
+        "MemberNo": "582"
+    },
+    {
+        "Street": "Agerskovvej 8",
+        "MemberNo": "665"
+    },
+    {
+        "Street": "Grambyvej 8",
+        "MemberNo": "675"
+    },
+    {
+        "Street": "Hviddingvej 8",
+        "MemberNo": "680"
+    },
+    {
+        "Street": "Løgumvej 8",
+        "MemberNo": "360"
+    },
+    {
+        "Street": "Nybølvej 8",
+        "MemberNo": "442"
+    },
+    {
+        "Street": "Randrupvej 8",
+        "MemberNo": "633"
+    },
+    {
+        "Street": "Skærbækvej 8",
+        "MemberNo": "464"
+    },
+    {
+        "Street": "Skodborgvej 8",
+        "MemberNo": "509"
+    },
+    {
+        "Street": "Toftlundvej 8",
+        "MemberNo": "519"
+    },
+    {
+        "Street": "Agerskovvej 9",
+        "MemberNo": "1"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 9",
+        "MemberNo": "259"
+    },
+    {
+        "Street": "Hviddingvej 9",
+        "MemberNo": "297"
+    },
+    {
+        "Street": "Løgumvej 9",
+        "MemberNo": "361"
+    },
+    {
+        "Street": "Nybølvej 9",
+        "MemberNo": "443"
+    },
+    {
+        "Street": "Skærbækvej 9",
+        "MemberNo": "465"
+    },
+    {
+        "Street": "Vamdrupvej 9",
+        "MemberNo": "522"
+    },
+    {
+        "Street": "Vedstedvej 9",
+        "MemberNo": "583"
+    },
+    {
+        "Street": "Agerskovvej 10",
+        "MemberNo": "2"
+    },
+    {
+        "Street": "Grambyvej 10",
+        "MemberNo": "202"
+    },
+    {
+        "Street": "Hviddingvej 10",
+        "MemberNo": "298"
+    },
+    {
+        "Street": "Løgumvej 10",
+        "MemberNo": "362"
+    },
+    {
+        "Street": "Nybølvej 10",
+        "MemberNo": "444"
+    },
+    {
+        "Street": "Randrupvej 10",
+        "MemberNo": "634"
+    },
+    {
+        "Street": "Skærbækvej 10",
+        "MemberNo": "466"
+    },
+    {
+        "Street": "Toftlundvej 10",
+        "MemberNo": "520"
+    },
+    {
+        "Street": "Agerskovvej 11",
+        "MemberNo": "3"
+    },
+    {
+        "Street": "Grambyvej 11",
+        "MemberNo": "203"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 11",
+        "MemberNo": "260"
+    },
+    {
+        "Street": "Hviddingvej 11",
+        "MemberNo": "299"
+    },
+    {
+        "Street": "Løgumvej 11",
+        "MemberNo": "363"
+    },
+    {
+        "Street": "Nybølvej 11",
+        "MemberNo": "445"
+    },
+    {
+        "Street": "Skærbækvej 11",
+        "MemberNo": "467"
+    },
+    {
+        "Street": "Vamdrupvej 11",
+        "MemberNo": "523"
+    },
+    {
+        "Street": "Vedstedvej 11",
+        "MemberNo": "584"
+    },
+    {
+        "Street": "Agerskovvej 12",
+        "MemberNo": "4"
+    },
+    {
+        "Street": "Grambyvej 12",
+        "MemberNo": "204"
+    },
+    {
+        "Street": "Hviddingvej 12",
+        "MemberNo": "300"
+    },
+    {
+        "Street": "Løgumvej 12",
+        "MemberNo": "364"
+    },
+    {
+        "Street": "Medelbyvej 12",
+        "MemberNo": "378"
+    },
+    {
+        "Street": "Nybølvej 12",
+        "MemberNo": "446"
+    },
+    {
+        "Street": "Randrupvej 12",
+        "MemberNo": "635"
+    },
+    {
+        "Street": "Skærbækvej 12",
+        "MemberNo": "468"
+    },
+    {
+        "Street": "Agerskovvej 13",
+        "MemberNo": "5"
+    },
+    {
+        "Street": "Frøslevvej 13",
+        "MemberNo": "154"
+    },
+    {
+        "Street": "Grambyvej 13",
+        "MemberNo": "205"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 13",
+        "MemberNo": "261"
+    },
+    {
+        "Street": "Hviddingvej 13",
+        "MemberNo": "301"
+    },
+    {
+        "Street": "Løgumvej 13",
+        "MemberNo": "365"
+    },
+    {
+        "Street": "Medelbyvej 13",
+        "MemberNo": "379"
+    },
+    {
+        "Street": "Nybølvej 13",
+        "MemberNo": "447"
+    },
+    {
+        "Street": "Skærbækvej 13",
+        "MemberNo": "469"
+    },
+    {
+        "Street": "Skodborgvej 13",
+        "MemberNo": "510"
+    },
+    {
+        "Street": "Vamdrupvej 13",
+        "MemberNo": "524"
+    },
+    {
+        "Street": "Vedstedvej 13",
+        "MemberNo": "585"
+    },
+    {
+        "Street": "Grambyvej 14",
+        "MemberNo": "206"
+    },
+    {
+        "Street": "Hviddingvej 14",
+        "MemberNo": "302"
+    },
+    {
+        "Street": "Løgumvej 14",
+        "MemberNo": "366"
+    },
+    {
+        "Street": "Medelbyvej 14",
+        "MemberNo": "380"
+    },
+    {
+        "Street": "Nybølvej 14",
+        "MemberNo": "448"
+    },
+    {
+        "Street": "Randrupvej 14",
+        "MemberNo": "636"
+    },
+    {
+        "Street": "Skærbækvej 14",
+        "MemberNo": "470"
+    },
+    {
+        "Street": "Agerskovvej 15",
+        "MemberNo": "6"
+    },
+    {
+        "Street": "Frøslevvej 15",
+        "MemberNo": "155"
+    },
+    {
+        "Street": "Grambyvej 15",
+        "MemberNo": "207"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 15",
+        "MemberNo": "262"
+    },
+    {
+        "Street": "Hviddingvej 15",
+        "MemberNo": "303"
+    },
+    {
+        "Street": "Løgumvej 15",
+        "MemberNo": "367"
+    },
+    {
+        "Street": "Medelbyvej 15",
+        "MemberNo": "381"
+    },
+    {
+        "Street": "Nybølvej 15",
+        "MemberNo": "449"
+    },
+    {
+        "Street": "Skærbækvej 15",
+        "MemberNo": "471"
+    },
+    {
+        "Street": "Vamdrupvej 15",
+        "MemberNo": "525"
+    },
+    {
+        "Street": "Vedstedvej 15",
+        "MemberNo": "586"
+    },
+    {
+        "Street": "Agerskovvej 16",
+        "MemberNo": "7"
+    },
+    {
+        "Street": "Frøslevvej 16",
+        "MemberNo": "156"
+    },
+    {
+        "Street": "Grambyvej 16",
+        "MemberNo": "208"
+    },
+    {
+        "Street": "Hviddingvej 16",
+        "MemberNo": "304"
+    },
+    {
+        "Street": "Løgumvej 16",
+        "MemberNo": "368"
+    },
+    {
+        "Street": "Medelbyvej 16",
+        "MemberNo": "382"
+    },
+    {
+        "Street": "Nybølvej 16",
+        "MemberNo": "450"
+    },
+    {
+        "Street": "Skærbækvej 16",
+        "MemberNo": "472"
+    },
+    {
+        "Street": "Agerskovvej 17",
+        "MemberNo": "8"
+    },
+    {
+        "Street": "Frøslevvej 17",
+        "MemberNo": "157"
+    },
+    {
+        "Street": "Grambyvej 17",
+        "MemberNo": "209"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 17",
+        "MemberNo": "263"
+    },
+    {
+        "Street": "Hviddingvej 17",
+        "MemberNo": "305"
+    },
+    {
+        "Street": "Løgumvej 17",
+        "MemberNo": "369"
+    },
+    {
+        "Street": "Medelbyvej 17",
+        "MemberNo": "383"
+    },
+    {
+        "Street": "Nybølvej 17",
+        "MemberNo": "451"
+    },
+    {
+        "Street": "Skærbækvej 17",
+        "MemberNo": "483"
+    },
+    {
+        "Street": "Vamdrupvej 17",
+        "MemberNo": "526"
+    },
+    {
+        "Street": "Vedstedvej 17",
+        "MemberNo": "587"
+    },
+    {
+        "Street": "Agerskovvej 18",
+        "MemberNo": "9"
+    },
+    {
+        "Street": "Frøslevvej 18",
+        "MemberNo": "158"
+    },
+    {
+        "Street": "Grambyvej 18",
+        "MemberNo": "210"
+    },
+    {
+        "Street": "Hviddingvej 18",
+        "MemberNo": "306"
+    },
+    {
+        "Street": "Løgumvej 18",
+        "MemberNo": "370"
+    },
+    {
+        "Street": "Medelbyvej 18",
+        "MemberNo": "384"
+    },
+    {
+        "Street": "Nybølvej 18",
+        "MemberNo": "452"
+    },
+    {
+        "Street": "Skærbækvej 18",
+        "MemberNo": "474"
+    },
+    {
+        "Street": "Vamdrupvej 18",
+        "MemberNo": "527"
+    },
+    {
+        "Street": "Agerskovvej 19",
+        "MemberNo": "10"
+    },
+    {
+        "Street": "Frøslevvej 19",
+        "MemberNo": "159"
+    },
+    {
+        "Street": "Grambyvej 19",
+        "MemberNo": "211"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 19",
+        "MemberNo": "264"
+    },
+    {
+        "Street": "Hviddingvej 19",
+        "MemberNo": "307"
+    },
+    {
+        "Street": "Løgumvej 19",
+        "MemberNo": "371"
+    },
+    {
+        "Street": "Medelbyvej 19",
+        "MemberNo": "385"
+    },
+    {
+        "Street": "Nybølvej 19",
+        "MemberNo": "453"
+    },
+    {
+        "Street": "Skærbækvej 19",
+        "MemberNo": "475"
+    },
+    {
+        "Street": "Vamdrupvej 19",
+        "MemberNo": "528"
+    },
+    {
+        "Street": "Agerskovvej 20",
+        "MemberNo": "11"
+    },
+    {
+        "Street": "Frøslevvej 20",
+        "MemberNo": "160"
+    },
+    {
+        "Street": "Grambyvej 20",
+        "MemberNo": "212"
+    },
+    {
+        "Street": "Hviddingvej 20",
+        "MemberNo": "308"
+    },
+    {
+        "Street": "Løgumvej 20",
+        "MemberNo": "372"
+    },
+    {
+        "Street": "Medelbyvej 20",
+        "MemberNo": "386"
+    },
+    {
+        "Street": "Nybølvej 20",
+        "MemberNo": "454"
+    },
+    {
+        "Street": "Skærbækvej 20",
+        "MemberNo": "476"
+    },
+    {
+        "Street": "Vamdrupvej 20",
+        "MemberNo": "529"
+    },
+    {
+        "Street": "Agerskovvej 21",
+        "MemberNo": "12"
+    },
+    {
+        "Street": "Damhus Boulevard 21",
+        "MemberNo": "58"
+    },
+    {
+        "Street": "Frøslevvej 21",
+        "MemberNo": "161"
+    },
+    {
+        "Street": "Grambyvej 21",
+        "MemberNo": "213"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 21",
+        "MemberNo": "265"
+    },
+    {
+        "Street": "Hviddingvej 21",
+        "MemberNo": "309"
+    },
+    {
+        "Street": "Medelbyvej 21",
+        "MemberNo": "387"
+    },
+    {
+        "Street": "Skærbækvej 21",
+        "MemberNo": "477"
+    },
+    {
+        "Street": "Vamdrupvej 21",
+        "MemberNo": "530"
+    },
+    {
+        "Street": "Vojensvej 21",
+        "MemberNo": "588"
+    },
+    {
+        "Street": "Agerskovvej 22",
+        "MemberNo": "13"
+    },
+    {
+        "Street": "Damhus Boulevard 22",
+        "MemberNo": "59"
+    },
+    {
+        "Street": "Frøslevvej 22",
+        "MemberNo": "162"
+    },
+    {
+        "Street": "Grambyvej 22",
+        "MemberNo": "214"
+    },
+    {
+        "Street": "Løgumvej 22",
+        "MemberNo": "373"
+    },
+    {
+        "Street": "Medelbyvej 22",
+        "MemberNo": "388"
+    },
+    {
+        "Street": "Nybølvej 22",
+        "MemberNo": "455"
+    },
+    {
+        "Street": "Skærbækvej 22",
+        "MemberNo": "478"
+    },
+    {
+        "Street": "Vamdrupvej 22",
+        "MemberNo": "531"
+    },
+    {
+        "Street": "Vojensvej 22",
+        "MemberNo": "589"
+    },
+    {
+        "Street": "Agerskovvej 23",
+        "MemberNo": "14"
+    },
+    {
+        "Street": "Damhus Boulevard 23",
+        "MemberNo": "60"
+    },
+    {
+        "Street": "Frøslevvej 23",
+        "MemberNo": "163"
+    },
+    {
+        "Street": "Grambyvej 23",
+        "MemberNo": "215"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 23",
+        "MemberNo": "266"
+    },
+    {
+        "Street": "Hviddingvej 23",
+        "MemberNo": "310"
+    },
+    {
+        "Street": "Løgumvej 23",
+        "MemberNo": "374"
+    },
+    {
+        "Street": "Medelbyvej 23",
+        "MemberNo": "389"
+    },
+    {
+        "Street": "Skærbækvej 23",
+        "MemberNo": "479"
+    },
+    {
+        "Street": "Vamdrupvej 23",
+        "MemberNo": "532"
+    },
+    {
+        "Street": "Vojensvej 23",
+        "MemberNo": "590"
+    },
+    {
+        "Street": "Agerskovvej 24",
+        "MemberNo": "15"
+    },
+    {
+        "Street": "Damhus Boulevard 24",
+        "MemberNo": "61"
+    },
+    {
+        "Street": "Frøslevvej 24",
+        "MemberNo": "164"
+    },
+    {
+        "Street": "Grambyvej 24",
+        "MemberNo": "216"
+    },
+    {
+        "Street": "Hviddingvej 24",
+        "MemberNo": "311"
+    },
+    {
+        "Street": "Løgumvej 24",
+        "MemberNo": "375"
+    },
+    {
+        "Street": "Medelbyvej 24",
+        "MemberNo": "390"
+    },
+    {
+        "Street": "Nybølvej 24",
+        "MemberNo": "456"
+    },
+    {
+        "Street": "Skærbækvej 24",
+        "MemberNo": "480"
+    },
+    {
+        "Street": "Vamdrupvej 24",
+        "MemberNo": "533"
+    },
+    {
+        "Street": "Vojensvej 24",
+        "MemberNo": "591"
+    },
+    {
+        "Street": "Agerskovvej 25",
+        "MemberNo": "16"
+    },
+    {
+        "Street": "Damhus Boulevard 25",
+        "MemberNo": "62"
+    },
+    {
+        "Street": "Frøslevvej 25",
+        "MemberNo": "165"
+    },
+    {
+        "Street": "Grambyvej 25",
+        "MemberNo": "217"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 25",
+        "MemberNo": "267"
+    },
+    {
+        "Street": "Hviddingvej 25",
+        "MemberNo": "312"
+    },
+    {
+        "Street": "Løgumvej 25",
+        "MemberNo": "376"
+    },
+    {
+        "Street": "Medelbyvej 25",
+        "MemberNo": "391"
+    },
+    {
+        "Street": "Skærbækvej 25",
+        "MemberNo": "481"
+    },
+    {
+        "Street": "Vojensvej 25",
+        "MemberNo": "592"
+    },
+    {
+        "Street": "Agerskovvej 26",
+        "MemberNo": "17"
+    },
+    {
+        "Street": "Damhus Boulevard 26",
+        "MemberNo": "63"
+    },
+    {
+        "Street": "Frøslevvej 26",
+        "MemberNo": "166"
+    },
+    {
+        "Street": "Grambyvej 26",
+        "MemberNo": "218"
+    },
+    {
+        "Street": "Hviddingvej 26",
+        "MemberNo": "313"
+    },
+    {
+        "Street": "Medelbyvej 26",
+        "MemberNo": "390"
+    },
+    {
+        "Street": "Skærbækvej 26",
+        "MemberNo": "482"
+    },
+    {
+        "Street": "Vamdrupvej 26",
+        "MemberNo": "534"
+    },
+    {
+        "Street": "Vojensvej 26",
+        "MemberNo": "593"
+    },
+    {
+        "Street": "Agerskovvej 27",
+        "MemberNo": "18"
+    },
+    {
+        "Street": "Damhus Boulevard 27",
+        "MemberNo": "64"
+    },
+    {
+        "Street": "Frøslevvej 27",
+        "MemberNo": "167"
+    },
+    {
+        "Street": "Grambyvej 27",
+        "MemberNo": "219"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 27",
+        "MemberNo": "268"
+    },
+    {
+        "Street": "Hviddingvej 27",
+        "MemberNo": "314"
+    },
+    {
+        "Street": "Medelbyvej 27",
+        "MemberNo": "392"
+    },
+    {
+        "Street": "Randrupvej 27",
+        "MemberNo": "637"
+    },
+    {
+        "Street": "Skærbækvej 27",
+        "MemberNo": "483"
+    },
+    {
+        "Street": "Vamdrupvej 27",
+        "MemberNo": "535"
+    },
+    {
+        "Street": "Vojensvej 27",
+        "MemberNo": "594"
+    },
+    {
+        "Street": "Agerskovvej 28",
+        "MemberNo": "19"
+    },
+    {
+        "Street": "Damhus Boulevard 28",
+        "MemberNo": "65"
+    },
+    {
+        "Street": "Frøslevvej 28",
+        "MemberNo": "168"
+    },
+    {
+        "Street": "Grambyvej 28",
+        "MemberNo": "220"
+    },
+    {
+        "Street": "Hviddingvej 28",
+        "MemberNo": "315"
+    },
+    {
+        "Street": "Medelbyvej 28",
+        "MemberNo": "393"
+    },
+    {
+        "Street": "Skærbækvej 28",
+        "MemberNo": "484"
+    },
+    {
+        "Street": "Vamdrupvej 28",
+        "MemberNo": "536"
+    },
+    {
+        "Street": "Vojensvej 28",
+        "MemberNo": "595"
+    },
+    {
+        "Street": "Agerskovvej 29",
+        "MemberNo": "20"
+    },
+    {
+        "Street": "Damhus Boulevard 29",
+        "MemberNo": "66"
+    },
+    {
+        "Street": "Grambyvej 29",
+        "MemberNo": "221"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 29",
+        "MemberNo": "269"
+    },
+    {
+        "Street": "Hviddingvej 29",
+        "MemberNo": "314"
+    },
+    {
+        "Street": "Medelbyvej 29",
+        "MemberNo": "394"
+    },
+    {
+        "Street": "Randrupvej 29",
+        "MemberNo": "638"
+    },
+    {
+        "Street": "Skærbækvej 29",
+        "MemberNo": "485"
+    },
+    {
+        "Street": "Vamdrupvej 29",
+        "MemberNo": "537"
+    },
+    {
+        "Street": "Vojensvej 29",
+        "MemberNo": "596"
+    },
+    {
+        "Street": "Agerskovvej 30",
+        "MemberNo": "21"
+    },
+    {
+        "Street": "Damhus Boulevard 30",
+        "MemberNo": "67"
+    },
+    {
+        "Street": "Frøslevvej 30",
+        "MemberNo": "169"
+    },
+    {
+        "Street": "Grambyvej 30",
+        "MemberNo": "222"
+    },
+    {
+        "Street": "Hviddingvej 30",
+        "MemberNo": "316"
+    },
+    {
+        "Street": "Løgumvej 30",
+        "MemberNo": "377"
+    },
+    {
+        "Street": "Medelbyvej 30",
+        "MemberNo": "395"
+    },
+    {
+        "Street": "Randrupvej 30",
+        "MemberNo": "639"
+    },
+    {
+        "Street": "Skærbækvej 30",
+        "MemberNo": "486"
+    },
+    {
+        "Street": "Vamdrupvej 30",
+        "MemberNo": "538"
+    },
+    {
+        "Street": "Vojensvej 30",
+        "MemberNo": "597"
+    },
+    {
+        "Street": "Damhus Boulevard 31",
+        "MemberNo": "68"
+    },
+    {
+        "Street": "Frøslevvej 31",
+        "MemberNo": "170"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 31",
+        "MemberNo": "270"
+    },
+    {
+        "Street": "Hviddingvej 31",
+        "MemberNo": "317"
+    },
+    {
+        "Street": "Medelbyvej 31",
+        "MemberNo": "396"
+    },
+    {
+        "Street": "Randrupvej 31",
+        "MemberNo": "640"
+    },
+    {
+        "Street": "Skærbækvej 31",
+        "MemberNo": "487"
+    },
+    {
+        "Street": "Vamdrupvej 31",
+        "MemberNo": "539"
+    },
+    {
+        "Street": "Vojensvej 31",
+        "MemberNo": "596"
+    },
+    {
+        "Street": "Agerskovvej 32",
+        "MemberNo": "22"
+    },
+    {
+        "Street": "Damhus Boulevard 32",
+        "MemberNo": "69"
+    },
+    {
+        "Street": "Frøslevvej 32",
+        "MemberNo": "171"
+    },
+    {
+        "Street": "Grambyvej 32",
+        "MemberNo": "224"
+    },
+    {
+        "Street": "Hviddingvej 32",
+        "MemberNo": "318"
+    },
+    {
+        "Street": "Medelbyvej 32",
+        "MemberNo": "397"
+    },
+    {
+        "Street": "Randrupvej 32",
+        "MemberNo": "641"
+    },
+    {
+        "Street": "Vamdrupvej 32",
+        "MemberNo": "540"
+    },
+    {
+        "Street": "Vojensvej 32",
+        "MemberNo": "598"
+    },
+    {
+        "Street": "Agerskovvej 33",
+        "MemberNo": "23"
+    },
+    {
+        "Street": "Damhus Boulevard 33",
+        "MemberNo": "70"
+    },
+    {
+        "Street": "Frøslevvej 33",
+        "MemberNo": "172"
+    },
+    {
+        "Street": "Grambyvej 33",
+        "MemberNo": "225"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 33",
+        "MemberNo": "271"
+    },
+    {
+        "Street": "Hviddingvej 33",
+        "MemberNo": "319"
+    },
+    {
+        "Street": "Medelbyvej 33",
+        "MemberNo": "398"
+    },
+    {
+        "Street": "Randrupvej 33",
+        "MemberNo": "642"
+    },
+    {
+        "Street": "Skærbækvej 33",
+        "MemberNo": "488"
+    },
+    {
+        "Street": "Vamdrupvej 33",
+        "MemberNo": "541"
+    },
+    {
+        "Street": "Agerskovvej 34",
+        "MemberNo": "24"
+    },
+    {
+        "Street": "Damhus Boulevard 34",
+        "MemberNo": "71"
+    },
+    {
+        "Street": "Frøslevvej 34",
+        "MemberNo": "173"
+    },
+    {
+        "Street": "Hviddingvej 34",
+        "MemberNo": "320"
+    },
+    {
+        "Street": "Medelbyvej 34",
+        "MemberNo": "399"
+    },
+    {
+        "Street": "Randrupvej 34",
+        "MemberNo": "643"
+    },
+    {
+        "Street": "Skærbækvej 34",
+        "MemberNo": "489"
+    },
+    {
+        "Street": "Vamdrupvej 34",
+        "MemberNo": "542"
+    },
+    {
+        "Street": "Vojensvej 34",
+        "MemberNo": "599"
+    },
+    {
+        "Street": "Agerskovvej 35",
+        "MemberNo": "25"
+    },
+    {
+        "Street": "Damhus Boulevard 35",
+        "MemberNo": "72"
+    },
+    {
+        "Street": "Frøslevvej 35",
+        "MemberNo": "174"
+    },
+    {
+        "Street": "Grambyvej 35",
+        "MemberNo": "226"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 35",
+        "MemberNo": "272"
+    },
+    {
+        "Street": "Hviddingvej 35",
+        "MemberNo": "321"
+    },
+    {
+        "Street": "Randrupvej 35",
+        "MemberNo": "644"
+    },
+    {
+        "Street": "Vamdrupvej 35",
+        "MemberNo": "543"
+    },
+    {
+        "Street": "Agerskovvej 36",
+        "MemberNo": "26"
+    },
+    {
+        "Street": "Damhus Boulevard 36",
+        "MemberNo": "73"
+    },
+    {
+        "Street": "Frøslevvej 36",
+        "MemberNo": "175"
+    },
+    {
+        "Street": "Grambyvej 36",
+        "MemberNo": "227"
+    },
+    {
+        "Street": "Hviddingvej 36",
+        "MemberNo": "322"
+    },
+    {
+        "Street": "Løgumvej 36",
+        "MemberNo": "223"
+    },
+    {
+        "Street": "Medelbyvej 36",
+        "MemberNo": "400"
+    },
+    {
+        "Street": "Randrupvej 36",
+        "MemberNo": "645"
+    },
+    {
+        "Street": "Skærbækvej 36",
+        "MemberNo": "490"
+    },
+    {
+        "Street": "Vamdrupvej 36",
+        "MemberNo": "544"
+    },
+    {
+        "Street": "Vojensvej 36",
+        "MemberNo": "600"
+    },
+    {
+        "Street": "Agerskovvej 37",
+        "MemberNo": "27"
+    },
+    {
+        "Street": "Damhus Boulevard 37",
+        "MemberNo": "74"
+    },
+    {
+        "Street": "Frøslevvej 37",
+        "MemberNo": "176"
+    },
+    {
+        "Street": "Grambyvej 37",
+        "MemberNo": "228"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 37",
+        "MemberNo": "273"
+    },
+    {
+        "Street": "Hviddingvej 37",
+        "MemberNo": "323"
+    },
+    {
+        "Street": "Løgumvej 37",
+        "MemberNo": "223"
+    },
+    {
+        "Street": "Medelbyvej 37",
+        "MemberNo": "401"
+    },
+    {
+        "Street": "Randrupvej 37",
+        "MemberNo": "646"
+    },
+    {
+        "Street": "Vamdrupvej 37",
+        "MemberNo": "545"
+    },
+    {
+        "Street": "Agerskovvej 38",
+        "MemberNo": "28"
+    },
+    {
+        "Street": "Damhus Boulevard 38",
+        "MemberNo": "75"
+    },
+    {
+        "Street": "Frøslevvej 38",
+        "MemberNo": "177"
+    },
+    {
+        "Street": "Grambyvej 38",
+        "MemberNo": "229"
+    },
+    {
+        "Street": "Hviddingvej 38",
+        "MemberNo": "324"
+    },
+    {
+        "Street": "Løgumvej 38",
+        "MemberNo": "223"
+    },
+    {
+        "Street": "Medelbyvej 38",
+        "MemberNo": "402"
+    },
+    {
+        "Street": "Randrupvej 38",
+        "MemberNo": "647"
+    },
+    {
+        "Street": "Skærbækvej 38",
+        "MemberNo": "491"
+    },
+    {
+        "Street": "Vamdrupvej 38",
+        "MemberNo": "546"
+    },
+    {
+        "Street": "Vojensvej 38",
+        "MemberNo": "601"
+    },
+    {
+        "Street": "Agerskovvej 39",
+        "MemberNo": "29"
+    },
+    {
+        "Street": "Damhus Boulevard 39",
+        "MemberNo": "76"
+    },
+    {
+        "Street": "Frøslevvej 39",
+        "MemberNo": "178"
+    },
+    {
+        "Street": "Grambyvej 39",
+        "MemberNo": "230"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 39",
+        "MemberNo": "274"
+    },
+    {
+        "Street": "Hviddingvej 39",
+        "MemberNo": "325"
+    },
+    {
+        "Street": "Medelbyvej 39",
+        "MemberNo": "403"
+    },
+    {
+        "Street": "Randrupvej 39",
+        "MemberNo": "648"
+    },
+    {
+        "Street": "Vamdrupvej 39",
+        "MemberNo": "547"
+    },
+    {
+        "Street": "Agerskovvej 40",
+        "MemberNo": "30"
+    },
+    {
+        "Street": "Damhus Boulevard 40",
+        "MemberNo": "77"
+    },
+    {
+        "Street": "Frøslevvej 40",
+        "MemberNo": "179"
+    },
+    {
+        "Street": "Grambyvej 40",
+        "MemberNo": "231"
+    },
+    {
+        "Street": "Hviddingvej 40",
+        "MemberNo": "326"
+    },
+    {
+        "Street": "Medelbyvej 40",
+        "MemberNo": "404"
+    },
+    {
+        "Street": "Randrupvej 40",
+        "MemberNo": "649"
+    },
+    {
+        "Street": "Skærbækvej 40",
+        "MemberNo": "492"
+    },
+    {
+        "Street": "Vamdrupvej 40",
+        "MemberNo": "548"
+    },
+    {
+        "Street": "Vojensvej 40",
+        "MemberNo": "602"
+    },
+    {
+        "Street": "Agerskovvej 41",
+        "MemberNo": "31"
+    },
+    {
+        "Street": "Damhus Boulevard 41",
+        "MemberNo": "78"
+    },
+    {
+        "Street": "Frøslevvej 41",
+        "MemberNo": "180"
+    },
+    {
+        "Street": "Grambyvej 41",
+        "MemberNo": "232"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 41",
+        "MemberNo": "275"
+    },
+    {
+        "Street": "Hviddingvej 41",
+        "MemberNo": "327"
+    },
+    {
+        "Street": "Medelbyvej 41",
+        "MemberNo": "405"
+    },
+    {
+        "Street": "Randrupvej 41",
+        "MemberNo": "650"
+    },
+    {
+        "Street": "Agerskovvej 42",
+        "MemberNo": "32"
+    },
+    {
+        "Street": "Damhus Boulevard 42",
+        "MemberNo": "79"
+    },
+    {
+        "Street": "Frøslevvej 42",
+        "MemberNo": "181"
+    },
+    {
+        "Street": "Grambyvej 42",
+        "MemberNo": "233"
+    },
+    {
+        "Street": "Hviddingvej 42",
+        "MemberNo": "328"
+    },
+    {
+        "Street": "Medelbyvej 42",
+        "MemberNo": "406"
+    },
+    {
+        "Street": "Randrupvej 42",
+        "MemberNo": "651"
+    },
+    {
+        "Street": "Skærbækvej 42",
+        "MemberNo": "493"
+    },
+    {
+        "Street": "Vojensvej 42",
+        "MemberNo": "603"
+    },
+    {
+        "Street": "Agerskovvej 43",
+        "MemberNo": "33"
+    },
+    {
+        "Street": "Damhus Boulevard 43",
+        "MemberNo": "80"
+    },
+    {
+        "Street": "Frøslevvej 43",
+        "MemberNo": "182"
+    },
+    {
+        "Street": "Grambyvej 43",
+        "MemberNo": "234"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 43",
+        "MemberNo": "276"
+    },
+    {
+        "Street": "Hviddingvej 43",
+        "MemberNo": "329"
+    },
+    {
+        "Street": "Medelbyvej 43",
+        "MemberNo": "407"
+    },
+    {
+        "Street": "Vamdrupvej 43",
+        "MemberNo": "549"
+    },
+    {
+        "Street": "Vojensvej 43",
+        "MemberNo": "604"
+    },
+    {
+        "Street": "Agerskovvej 44",
+        "MemberNo": "34"
+    },
+    {
+        "Street": "Damhus Boulevard 44",
+        "MemberNo": "81"
+    },
+    {
+        "Street": "Frøslevvej 44",
+        "MemberNo": "183"
+    },
+    {
+        "Street": "Grambyvej 44",
+        "MemberNo": "235"
+    },
+    {
+        "Street": "Hviddingvej 44",
+        "MemberNo": "330"
+    },
+    {
+        "Street": "Medelbyvej 44",
+        "MemberNo": "408"
+    },
+    {
+        "Street": "Randrupvej 44",
+        "MemberNo": "652"
+    },
+    {
+        "Street": "Skærbækvej 44",
+        "MemberNo": "494"
+    },
+    {
+        "Street": "Vamdrupvej 44",
+        "MemberNo": "550"
+    },
+    {
+        "Street": "Vojensvej 44",
+        "MemberNo": "605"
+    },
+    {
+        "Street": "Agerskovvej 45",
+        "MemberNo": "35"
+    },
+    {
+        "Street": "Damhus Boulevard 45",
+        "MemberNo": "82"
+    },
+    {
+        "Street": "Frøslevvej 45",
+        "MemberNo": "184"
+    },
+    {
+        "Street": "Grambyvej 45",
+        "MemberNo": "236"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 45",
+        "MemberNo": "277"
+    },
+    {
+        "Street": "Hviddingvej 45",
+        "MemberNo": "331"
+    },
+    {
+        "Street": "Medelbyvej 45",
+        "MemberNo": "409"
+    },
+    {
+        "Street": "Randrupvej 45",
+        "MemberNo": "653"
+    },
+    {
+        "Street": "Vamdrupvej 45",
+        "MemberNo": "551"
+    },
+    {
+        "Street": "Vojensvej 45",
+        "MemberNo": "604"
+    },
+    {
+        "Street": "Agerskovvej 46",
+        "MemberNo": "36"
+    },
+    {
+        "Street": "Damhus Boulevard 46",
+        "MemberNo": "83"
+    },
+    {
+        "Street": "Frøslevvej 46",
+        "MemberNo": "185"
+    },
+    {
+        "Street": "Grambyvej 46",
+        "MemberNo": "237"
+    },
+    {
+        "Street": "Hviddingvej 46",
+        "MemberNo": "332"
+    },
+    {
+        "Street": "Medelbyvej 46",
+        "MemberNo": "410"
+    },
+    {
+        "Street": "Randrupvej 46",
+        "MemberNo": "654"
+    },
+    {
+        "Street": "Skærbækvej 46",
+        "MemberNo": "495"
+    },
+    {
+        "Street": "Vamdrupvej 46",
+        "MemberNo": "552"
+    },
+    {
+        "Street": "Vojensvej 46",
+        "MemberNo": "606"
+    },
+    {
+        "Street": "Agerskovvej 47",
+        "MemberNo": "37"
+    },
+    {
+        "Street": "Damhus Boulevard 47",
+        "MemberNo": "84"
+    },
+    {
+        "Street": "Frøslevvej 47",
+        "MemberNo": "186"
+    },
+    {
+        "Street": "Grambyvej 47",
+        "MemberNo": "238"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 47",
+        "MemberNo": "278"
+    },
+    {
+        "Street": "Hviddingvej 47",
+        "MemberNo": "333"
+    },
+    {
+        "Street": "Medelbyvej 47",
+        "MemberNo": "411"
+    },
+    {
+        "Street": "Vamdrupvej 47",
+        "MemberNo": "553"
+    },
+    {
+        "Street": "Vojensvej 47",
+        "MemberNo": "604"
+    },
+    {
+        "Street": "Agerskovvej 48",
+        "MemberNo": "38"
+    },
+    {
+        "Street": "Damhus Boulevard 48",
+        "MemberNo": "85"
+    },
+    {
+        "Street": "Frøslevvej 48",
+        "MemberNo": "187"
+    },
+    {
+        "Street": "Grambyvej 48",
+        "MemberNo": "239"
+    },
+    {
+        "Street": "Hviddingvej 48",
+        "MemberNo": "334"
+    },
+    {
+        "Street": "Medelbyvej 48",
+        "MemberNo": "412"
+    },
+    {
+        "Street": "Randrupvej 48",
+        "MemberNo": "655"
+    },
+    {
+        "Street": "Skærbækvej 48",
+        "MemberNo": "496"
+    },
+    {
+        "Street": "Vamdrupvej 48",
+        "MemberNo": "554"
+    },
+    {
+        "Street": "Vojensvej 48",
+        "MemberNo": "607"
+    },
+    {
+        "Street": "Agerskovvej 49",
+        "MemberNo": "39"
+    },
+    {
+        "Street": "Damhus Boulevard 49",
+        "MemberNo": "86"
+    },
+    {
+        "Street": "Frøslevvej 49",
+        "MemberNo": "188"
+    },
+    {
+        "Street": "Grambyvej 49",
+        "MemberNo": "240"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 49",
+        "MemberNo": "279"
+    },
+    {
+        "Street": "Hviddingvej 49",
+        "MemberNo": "335"
+    },
+    {
+        "Street": "Medelbyvej 49",
+        "MemberNo": "413"
+    },
+    {
+        "Street": "Randrupvej 49",
+        "MemberNo": "656"
+    },
+    {
+        "Street": "Vamdrupvej 49",
+        "MemberNo": "555"
+    },
+    {
+        "Street": "Vojensvej 49",
+        "MemberNo": "608"
+    },
+    {
+        "Street": "Agerskovvej 50",
+        "MemberNo": "40"
+    },
+    {
+        "Street": "Damhus Boulevard 50",
+        "MemberNo": "87"
+    },
+    {
+        "Street": "Frøslevvej 50",
+        "MemberNo": "189"
+    },
+    {
+        "Street": "Grambyvej 50",
+        "MemberNo": "241"
+    },
+    {
+        "Street": "Hviddingvej 50",
+        "MemberNo": "336"
+    },
+    {
+        "Street": "Medelbyvej 50",
+        "MemberNo": "414"
+    },
+    {
+        "Street": "Randrupvej 50",
+        "MemberNo": "657"
+    },
+    {
+        "Street": "Skærbækvej 50",
+        "MemberNo": "497"
+    },
+    {
+        "Street": "Vamdrupvej 50",
+        "MemberNo": "556"
+    },
+    {
+        "Street": "Vojensvej 50",
+        "MemberNo": "609"
+    },
+    {
+        "Street": "Agerskovvej 51",
+        "MemberNo": "41"
+    },
+    {
+        "Street": "Damhus Boulevard 51",
+        "MemberNo": "88"
+    },
+    {
+        "Street": "Frøslevvej 51",
+        "MemberNo": "190"
+    },
+    {
+        "Street": "Grambyvej 51",
+        "MemberNo": "242"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 51",
+        "MemberNo": "280"
+    },
+    {
+        "Street": "Hviddingvej 51",
+        "MemberNo": "337"
+    },
+    {
+        "Street": "Medelbyvej 51",
+        "MemberNo": "415"
+    },
+    {
+        "Street": "Randrupvej 51",
+        "MemberNo": "658"
+    },
+    {
+        "Street": "Vamdrupvej 51",
+        "MemberNo": "557"
+    },
+    {
+        "Street": "Vojensvej 51",
+        "MemberNo": "610"
+    },
+    {
+        "Street": "Agerskovvej 52",
+        "MemberNo": "42"
+    },
+    {
+        "Street": "Damhus Boulevard 52",
+        "MemberNo": "89"
+    },
+    {
+        "Street": "Frøslevvej 52",
+        "MemberNo": "191"
+    },
+    {
+        "Street": "Grambyvej 52",
+        "MemberNo": "243"
+    },
+    {
+        "Street": "Hviddingvej 52",
+        "MemberNo": "338"
+    },
+    {
+        "Street": "Medelbyvej 52",
+        "MemberNo": "416"
+    },
+    {
+        "Street": "Randrupvej 52",
+        "MemberNo": "659"
+    },
+    {
+        "Street": "Skærbækvej 52",
+        "MemberNo": "498"
+    },
+    {
+        "Street": "Vamdrupvej 52",
+        "MemberNo": "558"
+    },
+    {
+        "Street": "Vojensvej 52",
+        "MemberNo": "611"
+    },
+    {
+        "Street": "Agerskovvej 53",
+        "MemberNo": "43"
+    },
+    {
+        "Street": "Damhus Boulevard 53",
+        "MemberNo": "90"
+    },
+    {
+        "Street": "Frøslevvej 53",
+        "MemberNo": "192"
+    },
+    {
+        "Street": "Grambyvej 53",
+        "MemberNo": "244"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 53",
+        "MemberNo": "281"
+    },
+    {
+        "Street": "Hviddingvej 53",
+        "MemberNo": "339"
+    },
+    {
+        "Street": "Medelbyvej 53",
+        "MemberNo": "417"
+    },
+    {
+        "Street": "Randrupvej 53",
+        "MemberNo": "660"
+    },
+    {
+        "Street": "Vamdrupvej 53",
+        "MemberNo": "559"
+    },
+    {
+        "Street": "Vojensvej 53",
+        "MemberNo": "612"
+    },
+    {
+        "Street": "Agerskovvej 54",
+        "MemberNo": "44"
+    },
+    {
+        "Street": "Damhus Boulevard 54",
+        "MemberNo": "91"
+    },
+    {
+        "Street": "Frøslevvej 54",
+        "MemberNo": "193"
+    },
+    {
+        "Street": "Grambyvej 54",
+        "MemberNo": "245"
+    },
+    {
+        "Street": "Hviddingvej 54",
+        "MemberNo": "340"
+    },
+    {
+        "Street": "Medelbyvej 54",
+        "MemberNo": "418"
+    },
+    {
+        "Street": "Randrupvej 54",
+        "MemberNo": "661"
+    },
+    {
+        "Street": "Skærbækvej 54",
+        "MemberNo": "499"
+    },
+    {
+        "Street": "Vamdrupvej 54",
+        "MemberNo": "560"
+    },
+    {
+        "Street": "Vojensvej 54",
+        "MemberNo": "613"
+    },
+    {
+        "Street": "Agerskovvej 55",
+        "MemberNo": "45"
+    },
+    {
+        "Street": "Damhus Boulevard 55",
+        "MemberNo": "92"
+    },
+    {
+        "Street": "Frøslevvej 55",
+        "MemberNo": "194"
+    },
+    {
+        "Street": "Grambyvej 55",
+        "MemberNo": "246"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 55",
+        "MemberNo": "282"
+    },
+    {
+        "Street": "Hviddingvej 55",
+        "MemberNo": "341"
+    },
+    {
+        "Street": "Medelbyvej 55",
+        "MemberNo": "419"
+    },
+    {
+        "Street": "Vamdrupvej 55",
+        "MemberNo": "561"
+    },
+    {
+        "Street": "Vojensvej 55",
+        "MemberNo": "614"
+    },
+    {
+        "Street": "Agerskovvej 56",
+        "MemberNo": "46"
+    },
+    {
+        "Street": "Damhus Boulevard 56",
+        "MemberNo": "93"
+    },
+    {
+        "Street": "Frøslevvej 56",
+        "MemberNo": "195"
+    },
+    {
+        "Street": "Grambyvej 56",
+        "MemberNo": "247"
+    },
+    {
+        "Street": "Hviddingvej 56",
+        "MemberNo": "342"
+    },
+    {
+        "Street": "Medelbyvej 56",
+        "MemberNo": "420"
+    },
+    {
+        "Street": "Randrupvej 56",
+        "MemberNo": "662"
+    },
+    {
+        "Street": "Skærbækvej 56",
+        "MemberNo": "500"
+    },
+    {
+        "Street": "Vamdrupvej 56",
+        "MemberNo": "562"
+    },
+    {
+        "Street": "Vojensvej 56",
+        "MemberNo": "615"
+    },
+    {
+        "Street": "Agerskovvej 57",
+        "MemberNo": "47"
+    },
+    {
+        "Street": "Damhus Boulevard 57",
+        "MemberNo": "94"
+    },
+    {
+        "Street": "Frøslevvej 57",
+        "MemberNo": "196"
+    },
+    {
+        "Street": "Grambyvej 57",
+        "MemberNo": "248"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 57",
+        "MemberNo": "283"
+    },
+    {
+        "Street": "Hviddingvej 57",
+        "MemberNo": "343"
+    },
+    {
+        "Street": "Medelbyvej 57",
+        "MemberNo": "421"
+    },
+    {
+        "Street": "Vamdrupvej 57",
+        "MemberNo": "563"
+    },
+    {
+        "Street": "Vojensvej 57",
+        "MemberNo": "616"
+    },
+    {
+        "Street": "Agerskovvej 58",
+        "MemberNo": "48"
+    },
+    {
+        "Street": "Damhus Boulevard 58",
+        "MemberNo": "95"
+    },
+    {
+        "Street": "Frøslevvej 58",
+        "MemberNo": "197"
+    },
+    {
+        "Street": "Grambyvej 58",
+        "MemberNo": "249"
+    },
+    {
+        "Street": "Hviddingvej 58",
+        "MemberNo": "344"
+    },
+    {
+        "Street": "Medelbyvej 58",
+        "MemberNo": "422"
+    },
+    {
+        "Street": "Randrupvej 58",
+        "MemberNo": "663"
+    },
+    {
+        "Street": "Skærbækvej 58",
+        "MemberNo": "501"
+    },
+    {
+        "Street": "Vamdrupvej 58",
+        "MemberNo": "564"
+    },
+    {
+        "Street": "Vojensvej 58",
+        "MemberNo": "617"
+    },
+    {
+        "Street": "Agerskovvej 59",
+        "MemberNo": "49"
+    },
+    {
+        "Street": "Damhus Boulevard 59",
+        "MemberNo": "96"
+    },
+    {
+        "Street": "Frøslevvej 59",
+        "MemberNo": "198"
+    },
+    {
+        "Street": "Grambyvej 59",
+        "MemberNo": "250"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 59",
+        "MemberNo": "284"
+    },
+    {
+        "Street": "Hviddingvej 59",
+        "MemberNo": "345"
+    },
+    {
+        "Street": "Medelbyvej 59",
+        "MemberNo": "423"
+    },
+    {
+        "Street": "Vamdrupvej 59",
+        "MemberNo": "565"
+    },
+    {
+        "Street": "Vojensvej 59",
+        "MemberNo": "618"
+    },
+    {
+        "Street": "Agerskovvej 60",
+        "MemberNo": "50"
+    },
+    {
+        "Street": "Damhus Boulevard 60",
+        "MemberNo": "97"
+    },
+    {
+        "Street": "Frøslevvej 60",
+        "MemberNo": "198"
+    },
+    {
+        "Street": "Grambyvej 60",
+        "MemberNo": "251"
+    },
+    {
+        "Street": "Hviddingvej 60",
+        "MemberNo": "346"
+    },
+    {
+        "Street": "Medelbyvej 60",
+        "MemberNo": "424"
+    },
+    {
+        "Street": "Skærbækvej 60",
+        "MemberNo": "502"
+    },
+    {
+        "Street": "Vojensvej 60",
+        "MemberNo": "619"
+    },
+    {
+        "Street": "Vojensvej 60A",
+        "MemberNo": "620"
+    },
+    {
+        "Street": "Agerskovvej 61",
+        "MemberNo": "51"
+    },
+    {
+        "Street": "Damhus Boulevard 61",
+        "MemberNo": "98"
+    },
+    {
+        "Street": "Frøslevvej 61",
+        "MemberNo": "199"
+    },
+    {
+        "Street": "Grambyvej 61",
+        "MemberNo": "252"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 61",
+        "MemberNo": "285"
+    },
+    {
+        "Street": "Hviddingvej 61",
+        "MemberNo": "347"
+    },
+    {
+        "Street": "Medelbyvej 61",
+        "MemberNo": "425"
+    },
+    {
+        "Street": "Vamdrupvej 61",
+        "MemberNo": "566"
+    },
+    {
+        "Street": "Vojensvej 61",
+        "MemberNo": "621"
+    },
+    {
+        "Street": "Agerskovvej 62",
+        "MemberNo": "52"
+    },
+    {
+        "Street": "Damhus Boulevard 62",
+        "MemberNo": "99"
+    },
+    {
+        "Street": "Grambyvej 62",
+        "MemberNo": "253"
+    },
+    {
+        "Street": "Hviddingvej 62",
+        "MemberNo": "348"
+    },
+    {
+        "Street": "Medelbyvej 62",
+        "MemberNo": "426"
+    },
+    {
+        "Street": "Skærbækvej 62",
+        "MemberNo": "503"
+    },
+    {
+        "Street": "Vamdrupvej 62",
+        "MemberNo": "567"
+    },
+    {
+        "Street": "Agerskovvej 63",
+        "MemberNo": "53"
+    },
+    {
+        "Street": "Damhus Boulevard 63",
+        "MemberNo": "100"
+    },
+    {
+        "Street": "Grambyvej 63",
+        "MemberNo": "254"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 63",
+        "MemberNo": "286"
+    },
+    {
+        "Street": "Hviddingvej 63",
+        "MemberNo": "349"
+    },
+    {
+        "Street": "Medelbyvej 63",
+        "MemberNo": "427"
+    },
+    {
+        "Street": "Vamdrupvej 63",
+        "MemberNo": "568"
+    },
+    {
+        "Street": "Vojensvej 63",
+        "MemberNo": "622"
+    },
+    {
+        "Street": "Agerskovvej 64",
+        "MemberNo": "54"
+    },
+    {
+        "Street": "Frøslevvej 64",
+        "MemberNo": "200"
+    },
+    {
+        "Street": "Grambyvej 64",
+        "MemberNo": "255"
+    },
+    {
+        "Street": "Hviddingvej 64",
+        "MemberNo": "350"
+    },
+    {
+        "Street": "Medelbyvej 64",
+        "MemberNo": "428"
+    },
+    {
+        "Street": "Skærbækvej 64",
+        "MemberNo": "504"
+    },
+    {
+        "Street": "Vamdrupvej 64",
+        "MemberNo": "569"
+    },
+    {
+        "Street": "Agerskovvej 65",
+        "MemberNo": "55"
+    },
+    {
+        "Street": "Damhus Boulevard 65",
+        "MemberNo": "101"
+    },
+    {
+        "Street": "Grambyvej 65",
+        "MemberNo": "256"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 65",
+        "MemberNo": "287"
+    },
+    {
+        "Street": "Hviddingvej 65",
+        "MemberNo": "351"
+    },
+    {
+        "Street": "Medelbyvej 65",
+        "MemberNo": "429"
+    },
+    {
+        "Street": "Vamdrupvej 65",
+        "MemberNo": "570"
+    },
+    {
+        "Street": "Vojensvej 65",
+        "MemberNo": "623"
+    },
+    {
+        "Street": "Agerskovvej 66",
+        "MemberNo": "56"
+    },
+    {
+        "Street": "Frøslevvej 66",
+        "MemberNo": "201"
+    },
+    {
+        "Street": "Grambyvej 66",
+        "MemberNo": "257"
+    },
+    {
+        "Street": "Hviddingvej 66",
+        "MemberNo": "352"
+    },
+    {
+        "Street": "Medelbyvej 66",
+        "MemberNo": "430"
+    },
+    {
+        "Street": "Skærbækvej 66",
+        "MemberNo": "505"
+    },
+    {
+        "Street": "Vamdrupvej 66",
+        "MemberNo": "571"
+    },
+    {
+        "Street": "Vojensvej 66",
+        "MemberNo": "624"
+    },
+    {
+        "Street": "Agerskovvej 67",
+        "MemberNo": "57"
+    },
+    {
+        "Street": "Damhus Boulevard 67",
+        "MemberNo": "102"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 67",
+        "MemberNo": "288"
+    },
+    {
+        "Street": "Medelbyvej 67",
+        "MemberNo": "431"
+    },
+    {
+        "Street": "Vamdrupvej 67",
+        "MemberNo": "572"
+    },
+    {
+        "Street": "Vojensvej 67",
+        "MemberNo": "625"
+    },
+    {
+        "Street": "Grambyvej 68",
+        "MemberNo": "258"
+    },
+    {
+        "Street": "Medelbyvej 68",
+        "MemberNo": "432"
+    },
+    {
+        "Street": "Vamdrupvej 68",
+        "MemberNo": "573"
+    },
+    {
+        "Street": "Vojensvej 68",
+        "MemberNo": "626"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 69",
+        "MemberNo": "289"
+    },
+    {
+        "Street": "Medelbyvej 69",
+        "MemberNo": "433"
+    },
+    {
+        "Street": "Vamdrupvej 69",
+        "MemberNo": "574"
+    },
+    {
+        "Street": "Vojensvej 69",
+        "MemberNo": "627"
+    },
+    {
+        "Street": "Damhus Boulevard 69A",
+        "MemberNo": "103"
+    },
+    {
+        "Street": "Damhus Boulevard 69B",
+        "MemberNo": "104"
+    },
+    {
+        "Street": "Damhus Boulevard 70",
+        "MemberNo": "105"
+    },
+    {
+        "Street": "Vamdrupvej 70",
+        "MemberNo": "575"
+    },
+    {
+        "Street": "Damhus Boulevard 71",
+        "MemberNo": "106"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 71",
+        "MemberNo": "290"
+    },
+    {
+        "Street": "Medelbyvej 71",
+        "MemberNo": "434"
+    },
+    {
+        "Street": "Vamdrupvej 71",
+        "MemberNo": "576"
+    },
+    {
+        "Street": "Vojensvej 71",
+        "MemberNo": "628"
+    },
+    {
+        "Street": "Damhus Boulevard 72",
+        "MemberNo": "107"
+    },
+    {
+        "Street": "Vamdrupvej 72",
+        "MemberNo": "577"
+    },
+    {
+        "Street": "Damhus Boulevard 73",
+        "MemberNo": "108"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 73",
+        "MemberNo": "291"
+    },
+    {
+        "Street": "Vojensvej 73",
+        "MemberNo": "629"
+    },
+    {
+        "Street": "Damhus Boulevard 74",
+        "MemberNo": "109"
+    },
+    {
+        "Street": "Vamdrupvej 74",
+        "MemberNo": "578"
+    },
+    {
+        "Street": "Damhus Boulevard 75",
+        "MemberNo": "110"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 75",
+        "MemberNo": "292"
+    },
+    {
+        "Street": "Vojensvej 75",
+        "MemberNo": "630"
+    },
+    {
+        "Street": "Damhus Boulevard 76",
+        "MemberNo": "111"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 77",
+        "MemberNo": "293"
+    },
+    {
+        "Street": "Vojensvej 77",
+        "MemberNo": "631"
+    },
+    {
+        "Street": "Damhus Boulevard 77AB",
+        "MemberNo": "112"
+    },
+    {
+        "Street": "Damhus Boulevard 77C",
+        "MemberNo": "113"
+    },
+    {
+        "Street": "Damhus Boulevard 78",
+        "MemberNo": "114"
+    },
+    {
+        "Street": "Damhus Boulevard 79",
+        "MemberNo": "115"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 79",
+        "MemberNo": "294"
+    },
+    {
+        "Street": "Damhus Boulevard 80",
+        "MemberNo": "116"
+    },
+    {
+        "Street": "Damhus Boulevard 81",
+        "MemberNo": "117"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 81",
+        "MemberNo": "295"
+    },
+    {
+        "Street": "Damhus Boulevard 82",
+        "MemberNo": "118"
+    },
+    {
+        "Street": "Damhus Boulevard 83",
+        "MemberNo": "119"
+    },
+    {
+        "Street": "Hendriksholms Boulevard 83",
+        "MemberNo": "296"
+    },
+    {
+        "Street": "Damhus Boulevard 84",
+        "MemberNo": "120"
+    },
+    {
+        "Street": "Damhus Boulevard 85",
+        "MemberNo": "121"
+    },
+    {
+        "Street": "Damhus Boulevard 86",
+        "MemberNo": "122"
+    },
+    {
+        "Street": "Damhus Boulevard 87",
+        "MemberNo": "123"
+    },
+    {
+        "Street": "Damhus Boulevard 88",
+        "MemberNo": "124"
+    },
+    {
+        "Street": "Damhus Boulevard 89",
+        "MemberNo": "125"
+    },
+    {
+        "Street": "Damhus Boulevard 90",
+        "MemberNo": "126"
+    },
+    {
+        "Street": "Damhus Boulevard 91",
+        "MemberNo": "127"
+    },
+    {
+        "Street": "Damhus Boulevard 92",
+        "MemberNo": "128"
+    },
+    {
+        "Street": "Damhus Boulevard 93",
+        "MemberNo": "129"
+    },
+    {
+        "Street": "Damhus Boulevard 94",
+        "MemberNo": "130"
+    },
+    {
+        "Street": "Damhus Boulevard 95",
+        "MemberNo": "131"
+    },
+    {
+        "Street": "Damhus Boulevard 96",
+        "MemberNo": "132"
+    },
+    {
+        "Street": "Damhus Boulevard 97",
+        "MemberNo": "133"
+    },
+    {
+        "Street": "Damhus Boulevard 98",
+        "MemberNo": "134"
+    },
+    {
+        "Street": "Damhus Boulevard 99",
+        "MemberNo": "135"
+    },
+    {
+        "Street": "Damhus Boulevard 100",
+        "MemberNo": "136"
+    },
+    {
+        "Street": "Damhus Boulevard 101",
+        "MemberNo": "137"
+    },
+    {
+        "Street": "Damhus Boulevard 102",
+        "MemberNo": "138"
+    },
+    {
+        "Street": "Damhus Boulevard 103",
+        "MemberNo": "139"
+    },
+    {
+        "Street": "Damhus Boulevard 104",
+        "MemberNo": "140"
+    },
+    {
+        "Street": "Damhus Boulevard 105",
+        "MemberNo": "141"
+    },
+    {
+        "Street": "Damhus Boulevard 106",
+        "MemberNo": "142"
+    },
+    {
+        "Street": "Damhus Boulevard 107",
+        "MemberNo": "143"
+    },
+    {
+        "Street": "Damhus Boulevard 108",
+        "MemberNo": "144"
+    },
+    {
+        "Street": "Damhus Boulevard 109",
+        "MemberNo": "145"
+    },
+    {
+        "Street": "Damhus Boulevard 110A",
+        "MemberNo": "146"
+    },
+    {
+        "Street": "Damhus Boulevard 110B",
+        "MemberNo": "147"
+    },
+    {
+        "Street": "Damhus Boulevard 111",
+        "MemberNo": "148"
+    },
+    {
+        "Street": "Damhus Boulevard 112",
+        "MemberNo": "149"
+    },
+    {
+        "Street": "Damhus Boulevard 113",
+        "MemberNo": "150"
+    },
+    {
+        "Street": "Damhus Boulevard 114",
+        "MemberNo": "151"
+    },
+    {
+        "Street": "Damhus Boulevard 116",
+        "MemberNo": "152"
+    },
+    {
+        "Street": "Damhus Boulevard 118",
+        "MemberNo": "153"
+    }
+]
