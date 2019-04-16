@@ -1,0 +1,40 @@
+<html>
+    <head>
+        <!-- Using jQuery with a CDN -->
+        <script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+
+        <!-- JS file -->
+        <script src="js/jquery.easy-autocomplete.min.js"></script> 
+
+        <!-- CSS file -->
+        <link rel="stylesheet" href="css/easy-autocomplete.min.css"> 
+
+        <!-- Additional CSS Themes file - not required-->
+        <link rel="stylesheet" href="css/easy-autocomplete.themes.min.css">
+        
+        <script>
+            var options = {
+                url: "resources/members.json",
+            
+                getValue: "Street",
+            
+                list: {
+                    match: {
+                        enabled: true
+                    },
+                    onSelectItemEvent
+                    /*onKeyEnterEvent*/: function() {
+                        var value = $("#function-data").getSelectedItemData().MemberNo;
+                        $("#data-holder").text(value);
+                    }
+                }
+            };
+            $(document).ready(function(){
+                $("#function-data").easyAutocomplete(options);
+            });
+        </script>        
+    </head>
+    <body>
+        Adresse: <input id="function-data" /> Medlems nr: <span id="data-holder"></span>
+    </body>
+</html>
