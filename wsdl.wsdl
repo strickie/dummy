@@ -1,3 +1,296 @@
-
 <?xml version="1.0" encoding="utf-8"?>
-<wsdl:definitions name="KoncernloginContactQueryService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://tempuri.org/" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing"><wsdl:types><xs:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema"><xs:import namespace="http://schemas.datacontract.org/2004/07/IDA.ContactRelations.Contracts.DTOs.KoncernLogin"/><xs:import namespace="http://schemas.microsoft.com/2003/10/Serialization/"/><xs:import namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays"/><xs:element name="FetchPageContacts"><xs:complexType><xs:sequence><xs:element minOccurs="0" name="page" type="xs:int"/><xs:element minOccurs="0" name="pageCount" type="xs:int"/></xs:sequence></xs:complexType></xs:element><xs:element name="FetchPageContactsResponse"><xs:complexType><xs:sequence><xs:element minOccurs="0" name="FetchPageContactsResult" nillable="true" type="q1:ArrayOfKoncernloginContact" xmlns:q1="http://schemas.datacontract.org/2004/07/IDA.ContactRelations.Contracts.DTOs.KoncernLogin"/></xs:sequence></xs:complexType></xs:element><xs:element name="FetchPageExtContacts"><xs:complexType><xs:sequence><xs:element minOccurs="0" name="page" type="xs:int"/><xs:element minOccurs="0" name="pageCount" type="xs:int"/></xs:sequence></xs:complexType></xs:element><xs:element name="FetchPageExtContactsResponse"><xs:complexType><xs:sequence><xs:element minOccurs="0" name="FetchPageExtContactsResult" nillable="true" type="q2:ArrayOfKoncernloginExtContact" xmlns:q2="http://schemas.datacontract.org/2004/07/IDA.ContactRelations.Contracts.DTOs.KoncernLogin"/></xs:sequence></xs:complexType></xs:element><xs:element name="FetchContact"><xs:complexType><xs:sequence><xs:element minOccurs="0" name="id" type="q3:guid" xmlns:q3="http://schemas.microsoft.com/2003/10/Serialization/"/></xs:sequence></xs:complexType></xs:element><xs:element name="FetchContactResponse"><xs:complexType><xs:sequence><xs:element minOccurs="0" name="FetchContactResult" nillable="true" type="q4:KoncernloginContact" xmlns:q4="http://schemas.datacontract.org/2004/07/IDA.ContactRelations.Contracts.DTOs.KoncernLogin"/></xs:sequence></xs:complexType></xs:element><xs:element name="FetchExtContact"><xs:complexType><xs:sequence><xs:element minOccurs="0" name="id" type="q5:guid" xmlns:q5="http://schemas.microsoft.com/2003/10/Serialization/"/></xs:sequence></xs:complexType></xs:element><xs:element name="FetchExtContactResponse"><xs:complexType><xs:sequence><xs:element minOccurs="0" name="FetchExtContactResult" nillable="true" type="q6:KoncernloginExtContact" xmlns:q6="http://schemas.datacontract.org/2004/07/IDA.ContactRelations.Contracts.DTOs.KoncernLogin"/></xs:sequence></xs:complexType></xs:element><xs:element name="FetchContacts"><xs:complexType><xs:sequence><xs:element minOccurs="0" name="ids" nillable="true" type="q7:ArrayOfguid" xmlns:q7="http://schemas.microsoft.com/2003/10/Serialization/Arrays"/></xs:sequence></xs:complexType></xs:element><xs:element name="FetchContactsResponse"><xs:complexType><xs:sequence><xs:element minOccurs="0" name="FetchContactsResult" nillable="true" type="q8:ArrayOfKoncernloginExtContact" xmlns:q8="http://schemas.datacontract.org/2004/07/IDA.ContactRelations.Contracts.DTOs.KoncernLogin"/></xs:sequence></xs:complexType></xs:element></xs:schema><xs:schema attributeFormDefault="qualified" elementFormDefault="qualified" targetNamespace="http://schemas.microsoft.com/2003/10/Serialization/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://schemas.microsoft.com/2003/10/Serialization/"><xs:element name="anyType" nillable="true" type="xs:anyType"/><xs:element name="anyURI" nillable="true" type="xs:anyURI"/><xs:element name="base64Binary" nillable="true" type="xs:base64Binary"/><xs:element name="boolean" nillable="true" type="xs:boolean"/><xs:element name="byte" nillable="true" type="xs:byte"/><xs:element name="dateTime" nillable="true" type="xs:dateTime"/><xs:element name="decimal" nillable="true" type="xs:decimal"/><xs:element name="double" nillable="true" type="xs:double"/><xs:element name="float" nillable="true" type="xs:float"/><xs:element name="int" nillable="true" type="xs:int"/><xs:element name="long" nillable="true" type="xs:long"/><xs:element name="QName" nillable="true" type="xs:QName"/><xs:element name="short" nillable="true" type="xs:short"/><xs:element name="string" nillable="true" type="xs:string"/><xs:element name="unsignedByte" nillable="true" type="xs:unsignedByte"/><xs:element name="unsignedInt" nillable="true" type="xs:unsignedInt"/><xs:element name="unsignedLong" nillable="true" type="xs:unsignedLong"/><xs:element name="unsignedShort" nillable="true" type="xs:unsignedShort"/><xs:element name="char" nillable="true" type="tns:char"/><xs:simpleType name="char"><xs:restriction base="xs:int"/></xs:simpleType><xs:element name="duration" nillable="true" type="tns:duration"/><xs:simpleType name="duration"><xs:restriction base="xs:duration"><xs:pattern value="\-?P(\d*D)?(T(\d*H)?(\d*M)?(\d*(\.\d*)?S)?)?"/><xs:minInclusive value="-P10675199DT2H48M5.4775808S"/><xs:maxInclusive value="P10675199DT2H48M5.4775807S"/></xs:restriction></xs:simpleType><xs:element name="guid" nillable="true" type="tns:guid"/><xs:simpleType name="guid"><xs:restriction base="xs:string"><xs:pattern value="[\da-fA-F]{8}-[\da-fA-F]{4}-[\da-fA-F]{4}-[\da-fA-F]{4}-[\da-fA-F]{12}"/></xs:restriction></xs:simpleType><xs:attribute name="FactoryType" type="xs:QName"/><xs:attribute name="Id" type="xs:ID"/><xs:attribute name="Ref" type="xs:IDREF"/></xs:schema><xs:schema elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/IDA.ContactRelations.Contracts.DTOs.KoncernLogin" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://schemas.datacontract.org/2004/07/IDA.ContactRelations.Contracts.DTOs.KoncernLogin" xmlns:ser="http://schemas.microsoft.com/2003/10/Serialization/"><xs:import namespace="http://schemas.microsoft.com/2003/10/Serialization/"/><xs:import namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays"/><xs:complexType name="ArrayOfKoncernloginContact"><xs:sequence><xs:element minOccurs="0" maxOccurs="unbounded" name="KoncernloginContact" nillable="true" type="tns:KoncernloginContact"/></xs:sequence></xs:complexType><xs:element name="ArrayOfKoncernloginContact" nillable="true" type="tns:ArrayOfKoncernloginContact"/><xs:complexType name="KoncernloginContact"><xs:sequence><xs:element minOccurs="0" name="Addressline1" nillable="true" type="xs:string"/><xs:element minOccurs="0" name="DoesNotWantElectronicMarketing" nillable="true" type="xs:dateTime"/><xs:element minOccurs="0" name="Email" nillable="true" type="xs:string"/><xs:element minOccurs="0" name="ExternalUserIdentifier" nillable="true" type="xs:string"/><xs:element minOccurs="0" name="FirstName" nillable="true" type="xs:string"/><xs:element minOccurs="0" name="HasOptOutOfInformEmail" nillable="true" type="xs:dateTime"/><xs:element minOccurs="0" name="HashedPassword" nillable="true" type="xs:string"/><xs:element minOccurs="0" name="Id" type="ser:guid"/><xs:element minOccurs="0" name="Jobtitle" nillable="true" type="xs:string"/><xs:element minOccurs="0" name="LastName" nillable="true" type="xs:string"/><xs:element minOccurs="0" name="Medlemsnr" nillable="true" type="xs:string"/><xs:element minOccurs="0" name="MiddleName" nillable="true" type="xs:string"/></xs:sequence></xs:complexType><xs:element name="KoncernloginContact" nillable="true" type="tns:KoncernloginContact"/><xs:complexType name="ArrayOfKoncernloginExtContact"><xs:sequence><xs:element minOccurs="0" maxOccurs="unbounded" name="KoncernloginExtContact" nillable="true" type="tns:KoncernloginExtContact"/></xs:sequence></xs:complexType><xs:element name="ArrayOfKoncernloginExtContact" nillable="true" type="tns:ArrayOfKoncernloginExtContact"/><xs:complexType name="KoncernloginExtContact"><xs:sequence><xs:element minOccurs="0" name="Addressline1" nillable="true" type="xs:string"/><xs:element minOccurs="0" name="CreateOn" nillable="true" type="xs:dateTime"/><xs:element minOccurs="0" name="DoesNotWantElectronicMarketing" nillable="true" type="xs:boolean"/><xs:element minOccurs="0" name="Email" nillable="true" type="xs:string"/><xs:element minOccurs="0" name="ExternalUserIdentifier" nillable="true" type="xs:string"/><xs:element minOccurs="0" name="FirstName" nillable="true" type="xs:string"/><xs:element minOccurs="0" name="HasOptOutOfInformEmail" nillable="true" type="xs:dateTime"/><xs:element minOccurs="0" name="HashedPassword" nillable="true" type="xs:string"/><xs:element minOccurs="0" name="Id" nillable="true" type="ser:guid"/><xs:element minOccurs="0" name="Jobtitle" nillable="true" type="xs:string"/><xs:element minOccurs="0" name="LastName" nillable="true" type="xs:string"/><xs:element minOccurs="0" name="Medlemsnr" nillable="true" type="xs:string"/><xs:element minOccurs="0" name="MiddleName" nillable="true" type="xs:string"/><xs:element minOccurs="0" name="MobilePhone" nillable="true" type="xs:string"/><xs:element minOccurs="0" name="Networks" nillable="true" type="q1:ArrayOfstring" xmlns:q1="http://schemas.microsoft.com/2003/10/Serialization/Arrays"/></xs:sequence></xs:complexType><xs:element name="KoncernloginExtContact" nillable="true" type="tns:KoncernloginExtContact"/></xs:schema><xs:schema elementFormDefault="qualified" targetNamespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://schemas.microsoft.com/2003/10/Serialization/Arrays" xmlns:ser="http://schemas.microsoft.com/2003/10/Serialization/"><xs:import namespace="http://schemas.microsoft.com/2003/10/Serialization/"/><xs:complexType name="ArrayOfstring"><xs:sequence><xs:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="xs:string"/></xs:sequence></xs:complexType><xs:element name="ArrayOfstring" nillable="true" type="tns:ArrayOfstring"/><xs:complexType name="ArrayOfguid"><xs:sequence><xs:element minOccurs="0" maxOccurs="unbounded" name="guid" type="ser:guid"/></xs:sequence></xs:complexType><xs:element name="ArrayOfguid" nillable="true" type="tns:ArrayOfguid"/></xs:schema></wsdl:types><wsdl:message name="IKoncernloginContactQueryService_FetchPageContacts_InputMessage"><wsdl:part name="parameters" element="tns:FetchPageContacts"/></wsdl:message><wsdl:message name="IKoncernloginContactQueryService_FetchPageContacts_OutputMessage"><wsdl:part name="parameters" element="tns:FetchPageContactsResponse"/></wsdl:message><wsdl:message name="IKoncernloginContactQueryService_FetchPageExtContacts_InputMessage"><wsdl:part name="parameters" element="tns:FetchPageExtContacts"/></wsdl:message><wsdl:message name="IKoncernloginContactQueryService_FetchPageExtContacts_OutputMessage"><wsdl:part name="parameters" element="tns:FetchPageExtContactsResponse"/></wsdl:message><wsdl:message name="IKoncernloginContactQueryService_FetchContact_InputMessage"><wsdl:part name="parameters" element="tns:FetchContact"/></wsdl:message><wsdl:message name="IKoncernloginContactQueryService_FetchContact_OutputMessage"><wsdl:part name="parameters" element="tns:FetchContactResponse"/></wsdl:message><wsdl:message name="IKoncernloginContactQueryService_FetchExtContact_InputMessage"><wsdl:part name="parameters" element="tns:FetchExtContact"/></wsdl:message><wsdl:message name="IKoncernloginContactQueryService_FetchExtContact_OutputMessage"><wsdl:part name="parameters" element="tns:FetchExtContactResponse"/></wsdl:message><wsdl:message name="IKoncernloginContactQueryService_FetchContacts_InputMessage"><wsdl:part name="parameters" element="tns:FetchContacts"/></wsdl:message><wsdl:message name="IKoncernloginContactQueryService_FetchContacts_OutputMessage"><wsdl:part name="parameters" element="tns:FetchContactsResponse"/></wsdl:message><wsdl:portType name="IKoncernloginContactQueryService"><wsdl:operation name="FetchPageContacts"><wsdl:input wsaw:Action="http://tempuri.org/IKoncernloginContactQueryService/FetchPageContacts" message="tns:IKoncernloginContactQueryService_FetchPageContacts_InputMessage"/><wsdl:output wsaw:Action="http://tempuri.org/IKoncernloginContactQueryService/FetchPageContactsResponse" message="tns:IKoncernloginContactQueryService_FetchPageContacts_OutputMessage"/></wsdl:operation><wsdl:operation name="FetchPageExtContacts"><wsdl:input wsaw:Action="http://tempuri.org/IKoncernloginContactQueryService/FetchPageExtContacts" message="tns:IKoncernloginContactQueryService_FetchPageExtContacts_InputMessage"/><wsdl:output wsaw:Action="http://tempuri.org/IKoncernloginContactQueryService/FetchPageExtContactsResponse" message="tns:IKoncernloginContactQueryService_FetchPageExtContacts_OutputMessage"/></wsdl:operation><wsdl:operation name="FetchContact"><wsdl:input wsaw:Action="http://tempuri.org/IKoncernloginContactQueryService/FetchContact" message="tns:IKoncernloginContactQueryService_FetchContact_InputMessage"/><wsdl:output wsaw:Action="http://tempuri.org/IKoncernloginContactQueryService/FetchContactResponse" message="tns:IKoncernloginContactQueryService_FetchContact_OutputMessage"/></wsdl:operation><wsdl:operation name="FetchExtContact"><wsdl:input wsaw:Action="http://tempuri.org/IKoncernloginContactQueryService/FetchExtContact" message="tns:IKoncernloginContactQueryService_FetchExtContact_InputMessage"/><wsdl:output wsaw:Action="http://tempuri.org/IKoncernloginContactQueryService/FetchExtContactResponse" message="tns:IKoncernloginContactQueryService_FetchExtContact_OutputMessage"/></wsdl:operation><wsdl:operation name="FetchContacts"><wsdl:input wsaw:Action="http://tempuri.org/IKoncernloginContactQueryService/FetchContacts" message="tns:IKoncernloginContactQueryService_FetchContacts_InputMessage"/><wsdl:output wsaw:Action="http://tempuri.org/IKoncernloginContactQueryService/FetchContactsResponse" message="tns:IKoncernloginContactQueryService_FetchContacts_OutputMessage"/></wsdl:operation></wsdl:portType><wsdl:binding name="BasicHttpBinding_IKoncernloginContactQueryService" type="tns:IKoncernloginContactQueryService"><soap:binding transport="http://schemas.xmlsoap.org/soap/http"/><wsdl:operation name="FetchPageContacts"><soap:operation soapAction="http://tempuri.org/IKoncernloginContactQueryService/FetchPageContacts" style="document"/><wsdl:input><soap:body use="literal"/></wsdl:input><wsdl:output><soap:body use="literal"/></wsdl:output></wsdl:operation><wsdl:operation name="FetchPageExtContacts"><soap:operation soapAction="http://tempuri.org/IKoncernloginContactQueryService/FetchPageExtContacts" style="document"/><wsdl:input><soap:body use="literal"/></wsdl:input><wsdl:output><soap:body use="literal"/></wsdl:output></wsdl:operation><wsdl:operation name="FetchContact"><soap:operation soapAction="http://tempuri.org/IKoncernloginContactQueryService/FetchContact" style="document"/><wsdl:input><soap:body use="literal"/></wsdl:input><wsdl:output><soap:body use="literal"/></wsdl:output></wsdl:operation><wsdl:operation name="FetchExtContact"><soap:operation soapAction="http://tempuri.org/IKoncernloginContactQueryService/FetchExtContact" style="document"/><wsdl:input><soap:body use="literal"/></wsdl:input><wsdl:output><soap:body use="literal"/></wsdl:output></wsdl:operation><wsdl:operation name="FetchContacts"><soap:operation soapAction="http://tempuri.org/IKoncernloginContactQueryService/FetchContacts" style="document"/><wsdl:input><soap:body use="literal"/></wsdl:input><wsdl:output><soap:body use="literal"/></wsdl:output></wsdl:operation></wsdl:binding><wsdl:service name="KoncernloginContactQueryService"><wsdl:port name="BasicHttpBinding_IKoncernloginContactQueryService" binding="tns:BasicHttpBinding_IKoncernloginContactQueryService"><soap:address location="http://udv-kb-iis6.int.ida.dk/IDAContactRelations/KoncernloginContactQueryService.svc"/></wsdl:port></wsdl:service></wsdl:definitions>
+<wsdl:definitions xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://tempuri.org/" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" name="KoncernloginContactQueryService" targetNamespace="http://tempuri.org/">
+  <wsdl:types>
+    <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <xs:import namespace="http://schemas.datacontract.org/2004/07/IDA.ContactRelations.Contracts.DTOs.KoncernLogin"/>
+      <xs:import namespace="http://schemas.microsoft.com/2003/10/Serialization/"/>
+      <xs:import namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays"/>
+      <xs:element name="FetchPageContacts">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="page" type="xs:int"/>
+            <xs:element minOccurs="0" name="pageCount" type="xs:int"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="FetchPageContactsResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/IDA.ContactRelations.Contracts.DTOs.KoncernLogin" minOccurs="0" name="FetchPageContactsResult" nillable="true" type="q1:ArrayOfKoncernloginContact"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="FetchPageExtContacts">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="page" type="xs:int"/>
+            <xs:element minOccurs="0" name="pageCount" type="xs:int"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="FetchPageExtContactsResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/IDA.ContactRelations.Contracts.DTOs.KoncernLogin" minOccurs="0" name="FetchPageExtContactsResult" nillable="true" type="q2:ArrayOfKoncernloginExtContact"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="FetchContact">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element xmlns:q3="http://schemas.microsoft.com/2003/10/Serialization/" minOccurs="0" name="id" type="q3:guid"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="FetchContactResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/IDA.ContactRelations.Contracts.DTOs.KoncernLogin" minOccurs="0" name="FetchContactResult" nillable="true" type="q4:KoncernloginContact"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="FetchExtContact">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element xmlns:q5="http://schemas.microsoft.com/2003/10/Serialization/" minOccurs="0" name="id" type="q5:guid"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="FetchExtContactResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element xmlns:q6="http://schemas.datacontract.org/2004/07/IDA.ContactRelations.Contracts.DTOs.KoncernLogin" minOccurs="0" name="FetchExtContactResult" nillable="true" type="q6:KoncernloginExtContact"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="FetchContacts">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element xmlns:q7="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="ids" nillable="true" type="q7:ArrayOfguid"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="FetchContactsResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element xmlns:q8="http://schemas.datacontract.org/2004/07/IDA.ContactRelations.Contracts.DTOs.KoncernLogin" minOccurs="0" name="FetchContactsResult" nillable="true" type="q8:ArrayOfKoncernloginExtContact"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://schemas.microsoft.com/2003/10/Serialization/" attributeFormDefault="qualified" elementFormDefault="qualified" targetNamespace="http://schemas.microsoft.com/2003/10/Serialization/">
+      <xs:element name="anyType" nillable="true" type="xs:anyType"/>
+      <xs:element name="anyURI" nillable="true" type="xs:anyURI"/>
+      <xs:element name="base64Binary" nillable="true" type="xs:base64Binary"/>
+      <xs:element name="boolean" nillable="true" type="xs:boolean"/>
+      <xs:element name="byte" nillable="true" type="xs:byte"/>
+      <xs:element name="dateTime" nillable="true" type="xs:dateTime"/>
+      <xs:element name="decimal" nillable="true" type="xs:decimal"/>
+      <xs:element name="double" nillable="true" type="xs:double"/>
+      <xs:element name="float" nillable="true" type="xs:float"/>
+      <xs:element name="int" nillable="true" type="xs:int"/>
+      <xs:element name="long" nillable="true" type="xs:long"/>
+      <xs:element name="QName" nillable="true" type="xs:QName"/>
+      <xs:element name="short" nillable="true" type="xs:short"/>
+      <xs:element name="string" nillable="true" type="xs:string"/>
+      <xs:element name="unsignedByte" nillable="true" type="xs:unsignedByte"/>
+      <xs:element name="unsignedInt" nillable="true" type="xs:unsignedInt"/>
+      <xs:element name="unsignedLong" nillable="true" type="xs:unsignedLong"/>
+      <xs:element name="unsignedShort" nillable="true" type="xs:unsignedShort"/>
+      <xs:element name="char" nillable="true" type="tns:char"/>
+      <xs:simpleType name="char">
+        <xs:restriction base="xs:int"/>
+      </xs:simpleType>
+      <xs:element name="duration" nillable="true" type="tns:duration"/>
+      <xs:simpleType name="duration">
+        <xs:restriction base="xs:duration">
+          <xs:pattern value="\-?P(\d*D)?(T(\d*H)?(\d*M)?(\d*(\.\d*)?S)?)?"/>
+          <xs:minInclusive value="-P10675199DT2H48M5.4775808S"/>
+          <xs:maxInclusive value="P10675199DT2H48M5.4775807S"/>
+        </xs:restriction>
+      </xs:simpleType>
+      <xs:element name="guid" nillable="true" type="tns:guid"/>
+      <xs:simpleType name="guid">
+        <xs:restriction base="xs:string">
+          <xs:pattern value="[\da-fA-F]{8}-[\da-fA-F]{4}-[\da-fA-F]{4}-[\da-fA-F]{4}-[\da-fA-F]{12}"/>
+        </xs:restriction>
+      </xs:simpleType>
+      <xs:attribute name="FactoryType" type="xs:QName"/>
+      <xs:attribute name="Id" type="xs:ID"/>
+      <xs:attribute name="Ref" type="xs:IDREF"/>
+    </xs:schema>
+    <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://schemas.datacontract.org/2004/07/IDA.ContactRelations.Contracts.DTOs.KoncernLogin" xmlns:ser="http://schemas.microsoft.com/2003/10/Serialization/" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/IDA.ContactRelations.Contracts.DTOs.KoncernLogin">
+      <xs:import namespace="http://schemas.microsoft.com/2003/10/Serialization/"/>
+      <xs:import namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays"/>
+      <xs:complexType name="ArrayOfKoncernloginContact">
+        <xs:sequence>
+          <xs:element minOccurs="0" maxOccurs="unbounded" name="KoncernloginContact" nillable="true" type="tns:KoncernloginContact"/>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="ArrayOfKoncernloginContact" nillable="true" type="tns:ArrayOfKoncernloginContact"/>
+      <xs:complexType name="KoncernloginContact">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Addressline1" nillable="true" type="xs:string"/>
+          <xs:element minOccurs="0" name="DoesNotWantElectronicMarketing" nillable="true" type="xs:dateTime"/>
+          <xs:element minOccurs="0" name="Email" nillable="true" type="xs:string"/>
+          <xs:element minOccurs="0" name="ExternalUserIdentifier" nillable="true" type="xs:string"/>
+          <xs:element minOccurs="0" name="FirstName" nillable="true" type="xs:string"/>
+          <xs:element minOccurs="0" name="HasOptOutOfInformEmail" nillable="true" type="xs:dateTime"/>
+          <xs:element minOccurs="0" name="HashedPassword" nillable="true" type="xs:string"/>
+          <xs:element minOccurs="0" name="Id" type="ser:guid"/>
+          <xs:element minOccurs="0" name="Jobtitle" nillable="true" type="xs:string"/>
+          <xs:element minOccurs="0" name="LastName" nillable="true" type="xs:string"/>
+          <xs:element minOccurs="0" name="Medlemsnr" nillable="true" type="xs:string"/>
+          <xs:element minOccurs="0" name="MiddleName" nillable="true" type="xs:string"/>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="KoncernloginContact" nillable="true" type="tns:KoncernloginContact"/>
+      <xs:complexType name="ArrayOfKoncernloginExtContact">
+        <xs:sequence>
+          <xs:element minOccurs="0" maxOccurs="unbounded" name="KoncernloginExtContact" nillable="true" type="tns:KoncernloginExtContact"/>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="ArrayOfKoncernloginExtContact" nillable="true" type="tns:ArrayOfKoncernloginExtContact"/>
+      <xs:complexType name="KoncernloginExtContact">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Addressline1" nillable="true" type="xs:string"/>
+          <xs:element minOccurs="0" name="CreateOn" nillable="true" type="xs:dateTime"/>
+          <xs:element minOccurs="0" name="DoesNotWantElectronicMarketing" nillable="true" type="xs:boolean"/>
+          <xs:element minOccurs="0" name="Email" nillable="true" type="xs:string"/>
+          <xs:element minOccurs="0" name="ExternalUserIdentifier" nillable="true" type="xs:string"/>
+          <xs:element minOccurs="0" name="FirstName" nillable="true" type="xs:string"/>
+          <xs:element minOccurs="0" name="HasOptOutOfInformEmail" nillable="true" type="xs:dateTime"/>
+          <xs:element minOccurs="0" name="HashedPassword" nillable="true" type="xs:string"/>
+          <xs:element minOccurs="0" name="Id" nillable="true" type="ser:guid"/>
+          <xs:element minOccurs="0" name="Jobtitle" nillable="true" type="xs:string"/>
+          <xs:element minOccurs="0" name="LastName" nillable="true" type="xs:string"/>
+          <xs:element minOccurs="0" name="Medlemsnr" nillable="true" type="xs:string"/>
+          <xs:element minOccurs="0" name="MiddleName" nillable="true" type="xs:string"/>
+          <xs:element minOccurs="0" name="MobilePhone" nillable="true" type="xs:string"/>
+          <xs:element xmlns:q1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="Networks" nillable="true" type="q1:ArrayOfstring"/>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="KoncernloginExtContact" nillable="true" type="tns:KoncernloginExtContact"/>
+    </xs:schema>
+    <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://schemas.microsoft.com/2003/10/Serialization/Arrays" xmlns:ser="http://schemas.microsoft.com/2003/10/Serialization/" elementFormDefault="qualified" targetNamespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <xs:import namespace="http://schemas.microsoft.com/2003/10/Serialization/"/>
+      <xs:complexType name="ArrayOfstring">
+        <xs:sequence>
+          <xs:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="xs:string"/>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="ArrayOfstring" nillable="true" type="tns:ArrayOfstring"/>
+      <xs:complexType name="ArrayOfguid">
+        <xs:sequence>
+          <xs:element minOccurs="0" maxOccurs="unbounded" name="guid" type="ser:guid"/>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="ArrayOfguid" nillable="true" type="tns:ArrayOfguid"/>
+    </xs:schema>
+  </wsdl:types>
+  <wsdl:message name="IKoncernloginContactQueryService_FetchPageContacts_InputMessage">
+    <wsdl:part name="parameters" element="tns:FetchPageContacts"/>
+  </wsdl:message>
+  <wsdl:message name="IKoncernloginContactQueryService_FetchPageContacts_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FetchPageContactsResponse"/>
+  </wsdl:message>
+  <wsdl:message name="IKoncernloginContactQueryService_FetchPageExtContacts_InputMessage">
+    <wsdl:part name="parameters" element="tns:FetchPageExtContacts"/>
+  </wsdl:message>
+  <wsdl:message name="IKoncernloginContactQueryService_FetchPageExtContacts_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FetchPageExtContactsResponse"/>
+  </wsdl:message>
+  <wsdl:message name="IKoncernloginContactQueryService_FetchContact_InputMessage">
+    <wsdl:part name="parameters" element="tns:FetchContact"/>
+  </wsdl:message>
+  <wsdl:message name="IKoncernloginContactQueryService_FetchContact_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FetchContactResponse"/>
+  </wsdl:message>
+  <wsdl:message name="IKoncernloginContactQueryService_FetchExtContact_InputMessage">
+    <wsdl:part name="parameters" element="tns:FetchExtContact"/>
+  </wsdl:message>
+  <wsdl:message name="IKoncernloginContactQueryService_FetchExtContact_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FetchExtContactResponse"/>
+  </wsdl:message>
+  <wsdl:message name="IKoncernloginContactQueryService_FetchContacts_InputMessage">
+    <wsdl:part name="parameters" element="tns:FetchContacts"/>
+  </wsdl:message>
+  <wsdl:message name="IKoncernloginContactQueryService_FetchContacts_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FetchContactsResponse"/>
+  </wsdl:message>
+  <wsdl:portType name="IKoncernloginContactQueryService">
+    <wsdl:operation name="FetchPageContacts">
+      <wsdl:input wsaw:Action="http://tempuri.org/IKoncernloginContactQueryService/FetchPageContacts" message="tns:IKoncernloginContactQueryService_FetchPageContacts_InputMessage"/>
+      <wsdl:output wsaw:Action="http://tempuri.org/IKoncernloginContactQueryService/FetchPageContactsResponse" message="tns:IKoncernloginContactQueryService_FetchPageContacts_OutputMessage"/>
+    </wsdl:operation>
+    <wsdl:operation name="FetchPageExtContacts">
+      <wsdl:input wsaw:Action="http://tempuri.org/IKoncernloginContactQueryService/FetchPageExtContacts" message="tns:IKoncernloginContactQueryService_FetchPageExtContacts_InputMessage"/>
+      <wsdl:output wsaw:Action="http://tempuri.org/IKoncernloginContactQueryService/FetchPageExtContactsResponse" message="tns:IKoncernloginContactQueryService_FetchPageExtContacts_OutputMessage"/>
+    </wsdl:operation>
+    <wsdl:operation name="FetchContact">
+      <wsdl:input wsaw:Action="http://tempuri.org/IKoncernloginContactQueryService/FetchContact" message="tns:IKoncernloginContactQueryService_FetchContact_InputMessage"/>
+      <wsdl:output wsaw:Action="http://tempuri.org/IKoncernloginContactQueryService/FetchContactResponse" message="tns:IKoncernloginContactQueryService_FetchContact_OutputMessage"/>
+    </wsdl:operation>
+    <wsdl:operation name="FetchExtContact">
+      <wsdl:input wsaw:Action="http://tempuri.org/IKoncernloginContactQueryService/FetchExtContact" message="tns:IKoncernloginContactQueryService_FetchExtContact_InputMessage"/>
+      <wsdl:output wsaw:Action="http://tempuri.org/IKoncernloginContactQueryService/FetchExtContactResponse" message="tns:IKoncernloginContactQueryService_FetchExtContact_OutputMessage"/>
+    </wsdl:operation>
+    <wsdl:operation name="FetchContacts">
+      <wsdl:input wsaw:Action="http://tempuri.org/IKoncernloginContactQueryService/FetchContacts" message="tns:IKoncernloginContactQueryService_FetchContacts_InputMessage"/>
+      <wsdl:output wsaw:Action="http://tempuri.org/IKoncernloginContactQueryService/FetchContactsResponse" message="tns:IKoncernloginContactQueryService_FetchContacts_OutputMessage"/>
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IKoncernloginContactQueryService" type="tns:IKoncernloginContactQueryService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http"/>
+    <wsdl:operation name="FetchPageContacts">
+      <soap:operation soapAction="http://tempuri.org/IKoncernloginContactQueryService/FetchPageContacts" style="document"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FetchPageExtContacts">
+      <soap:operation soapAction="http://tempuri.org/IKoncernloginContactQueryService/FetchPageExtContacts" style="document"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FetchContact">
+      <soap:operation soapAction="http://tempuri.org/IKoncernloginContactQueryService/FetchContact" style="document"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FetchExtContact">
+      <soap:operation soapAction="http://tempuri.org/IKoncernloginContactQueryService/FetchExtContact" style="document"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FetchContacts">
+      <soap:operation soapAction="http://tempuri.org/IKoncernloginContactQueryService/FetchContacts" style="document"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="KoncernloginContactQueryService">
+    <wsdl:port name="BasicHttpBinding_IKoncernloginContactQueryService" binding="tns:BasicHttpBinding_IKoncernloginContactQueryService">
+      <soap:address location="http://udv-kb-iis6.int.ida.dk/IDAContactRelations/KoncernloginContactQueryService.svc"/>
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
